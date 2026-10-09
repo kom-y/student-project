@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+logs/
+*.log
+
+# Environment secrets
+.env
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
